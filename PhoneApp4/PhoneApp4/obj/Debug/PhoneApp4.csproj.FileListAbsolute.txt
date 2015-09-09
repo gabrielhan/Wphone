@@ -1,0 +1,14 @@
+c:\users\mika-boo\documents\visual studio 2010\Projects\PhoneApp4\PhoneApp4\obj\Debug\App.g.i.cs
+c:\users\mika-boo\documents\visual studio 2010\Projects\PhoneApp4\PhoneApp4\obj\Debug\MainPage.g.i.cs
+c:\users\mika-boo\documents\visual studio 2010\Projects\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.g.resources
+c:\users\mika-boo\documents\visual studio 2010\Projects\PhoneApp4\PhoneApp4\Bin\Debug\ApplicationIcon.png
+c:\users\mika-boo\documents\visual studio 2010\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Background.png
+c:\users\mika-boo\documents\visual studio 2010\Projects\PhoneApp4\PhoneApp4\Bin\Debug\PhoneApp4.dll
+c:\users\mika-boo\documents\visual studio 2010\Projects\PhoneApp4\PhoneApp4\Bin\Debug\PhoneApp4.pdb
+c:\users\mika-boo\documents\visual studio 2010\Projects\PhoneApp4\PhoneApp4\Bin\Debug\AppManifest.xaml
+c:\users\mika-boo\documents\visual studio 2010\Projects\PhoneApp4\PhoneApp4\Bin\Debug\PhoneApp4.xap
+c:\users\mika-boo\documents\visual studio 2010\Projects\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.dll
+c:\users\mika-boo\documents\visual studio 2010\Projects\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.pdb
+c:\users\mika-boo\documents\visual studio 2010\Projects\PhoneApp4\PhoneApp4\obj\Debug\XapCacheFile.xml
+c:\users\mika-boo\documents\visual studio 2010\Projects\PhoneApp4\PhoneApp4\obj\Debug\Page1.g.i.cs
+c:\users\mika-boo\documents\visual studio 2010\Projects\PhoneApp4\PhoneApp4\obj\Debug\Page2.g.i.cs
